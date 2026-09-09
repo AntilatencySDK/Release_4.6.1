@@ -1,0 +1,186 @@
+{
+  "Sdk": {
+    "Name": "Release",
+    "Category": "tags",
+    "Version": "4.6.1",
+    "Revision": "416"
+  },
+  "Dependencies": [
+    {
+      "Name": "alVersionCs",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "14"
+    },
+    {
+      "Name": "AntilatencyApiGenerator",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "536"
+    },
+    {
+      "Name": "AntilatencyApiGeneratorCsml",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "19"
+    },
+    {
+      "Name": "AntilatencyBuild",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "152"
+    },
+    {
+      "Name": "AntilatencyBuild.Aptly",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "11"
+    },
+    {
+      "Name": "AntilatencyBuildUnity",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "40"
+    },
+    {
+      "Name": "AntilatencyBuildUnrealEngine",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "32"
+    },
+    {
+      "Name": "AntilatencyLibraryLoader",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "32"
+    },
+    {
+      "Name": "AntilatencyLicense",
+      "Category": null,
+      "Version": null,
+      "Revision": "16"
+    },
+    {
+      "Name": "AntilatencyProjectDescription",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "6"
+    },
+    {
+      "Name": "AntilatencySvnToolkit.CSharp",
+      "Category": "trunk",
+      "Version": null,
+      "Revision": "18"
+    }
+  ],
+  "BinaryDependencies": [
+    {
+      "Name": "AltEnvironmentAdditionalMarkers",
+      "Category": "tags",
+      "Version": "1.1.1",
+      "Revision": "34478"
+    },
+    {
+      "Name": "AltEnvironmentArbitrary2D",
+      "Category": "tags",
+      "Version": "1.2.1",
+      "Revision": "34471"
+    },
+    {
+      "Name": "AntilatencyAltEnvironmentHorizontalGrid",
+      "Category": "tags",
+      "Version": "1.2.2",
+      "Revision": "37759"
+    },
+    {
+      "Name": "AltEnvironmentPillars",
+      "Category": "tags",
+      "Version": "3.1.1",
+      "Revision": "34470"
+    },
+    {
+      "Name": "AltEnvironmentRectangle.Library",
+      "Category": "tags",
+      "Version": "1.1.1",
+      "Revision": "39504"
+    },
+    {
+      "Name": "AntilatencyAltEnvironmentSelector",
+      "Category": "tags",
+      "Version": "1.1.1",
+      "Revision": "34469"
+    },
+    {
+      "Name": "AltEnvironmentSides.Library",
+      "Category": "tags",
+      "Version": "1.1.1",
+      "Revision": "34467"
+    },
+    {
+      "Name": "AltTracking",
+      "Category": "tags",
+      "Version": "6.1.1",
+      "Revision": "34400"
+    },
+    {
+      "Name": "BracerCotask",
+      "Category": "tags",
+      "Version": "3.1.2",
+      "Revision": "34443"
+    },
+    {
+      "Name": "AntilatencyDeviceNetwork",
+      "Category": "tags",
+      "Version": "9.3.4",
+      "Revision": "36276"
+    },
+    {
+      "Name": "AntilatencyHardwareExtensionInterface",
+      "Category": "tags",
+      "Version": "3.1.2",
+      "Revision": "34543"
+    },
+    {
+      "Name": "AntilatencyPhysicalConfigurableEnvironment.Library",
+      "Category": "tags",
+      "Version": "1.0.3",
+      "Revision": "34445"
+    },
+    {
+      "Name": "AntilatencyRadioMetrics",
+      "Category": "tags",
+      "Version": "2.1.2",
+      "Revision": "34447"
+    },
+    {
+      "Name": "AntilatencyStereoGlasses.Library",
+      "Category": "tags",
+      "Version": "1.1.2",
+      "Revision": "39574"
+    },
+    {
+      "Name": "AntilatencyStorageClient",
+      "Category": "tags",
+      "Version": "4.2.0",
+      "Revision": "34513"
+    },
+    {
+      "Name": "AntilatencyTrackingAlignment",
+      "Category": "tags",
+      "Version": "2.2.0",
+      "Revision": "34537"
+    },
+    {
+      "Name": "IllumetryDisplay.Library",
+      "Category": "tags",
+      "Version": "1.1.2",
+      "Revision": "34437"
+    },
+    {
+      "Name": "UsbServiceInterfaces",
+      "Category": "tags",
+      "Version": "1.0.2",
+      "Revision": "34433"
+    }
+  ]
+}
